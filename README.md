@@ -1,85 +1,81 @@
+<div align="center">
+
 # Hi, I'm Jacob Sidhu 👋
 
-I'm a Software Engineering graduate building practical projects across cloud engineering, full-stack development, and modern UI systems.
+### Cloud Engineering · Software Engineering
 
-I enjoy creating projects that are not just tutorial-based, but structured like real engineering work — with clear architecture, documentation, security notes, deployment steps, and meaningful technical decisions.
+Software Engineering graduate building practical cloud infrastructure,
+automated deployments and full-stack applications.
 
-## 🚀 Current Focus
+[![Portfolio](https://img.shields.io/badge/Portfolio-jacobsidhu.com-059669?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jacobsidhu.com)
+[![GitHub](https://img.shields.io/badge/GitHub-JacobSidhu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JacobSidhu)
 
-- Building a professional Cloud Engineering portfolio
-- Working with AWS, Terraform, Linux, Docker, and GitHub Actions
-- Developing complete GitHub projects with architecture diagrams and documentation
-- Expanding my skills in DevOps, infrastructure as code, CI/CD, and cloud deployment
-- Continuing to improve my experience with Qt, Flutter, React, and modern UI development
-
-## 🛠️ Technical Interests
-
-- Cloud Infrastructure
-- Infrastructure as Code
-- DevOps and CI/CD
-- Linux Server Deployment
-- Full-Stack Development
-- UI/UX and Component Design
-- Cross-Platform Application Development
-
-## 🌐 Socials
-
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/JacobSidhu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jacobsidhu)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MSidhu77237)
-
-# 💻 Tech Stack
-
-## Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-## Frontend & Mobile
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-
-## Backend & Databases
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-## Cloud, DevOps & Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-## Design & Data
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=jacobsidhu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=jacobsidhu&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobsidhu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=jacobsidhu&icon=0&color=0)](https://visitcount.itsvg.in)
+## About me
+
+I build projects that connect software development with cloud infrastructure.
+
+My focus is on understanding how applications are deployed, secured,
+maintained and scaled — supported by clear architecture, reproducible
+infrastructure and useful documentation.
+
+- ☁️ **Primary focus:** Cloud Engineering and AWS infrastructure
+- 💻 **Secondary focus:** Software Engineering and full-stack development
+- ⚙️ **Currently developing:** Terraform, Kubernetes and CI/CD skills
+- 🎓 **Education:** BSc Software Engineering, University of Central Lancashire
+- 📍 **Based in:** Preston, United Kingdom
+
+## Core toolkit
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Software Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## What I'm working towards
+
+| Area | Focus |
+| :--- | :--- |
+| **Cloud infrastructure** | Building secure and resilient AWS environments |
+| **Infrastructure as code** | Creating reusable Terraform configurations |
+| **Deployment automation** | Developing CI/CD workflows with GitHub Actions |
+| **Containers** | Packaging applications with Docker and learning Kubernetes operations |
+| **Software engineering** | Building maintainable applications with clear boundaries |
+
+## How I approach projects
+
+**Build → Automate → Document → Improve**
+
+I use projects to explore engineering decisions and their trade-offs.
+My repositories aim to include:
+
+- Architecture diagrams and explanations
+- Repeatable setup and deployment instructions
+- Security considerations and operational notes
+- Clear documentation of limitations and future improvements
+
+---
+
+<div align="center">
+
+**Explore my repositories below, or visit [jacobsidhu.com](https://jacobsidhu.com).**
+
+</div>
